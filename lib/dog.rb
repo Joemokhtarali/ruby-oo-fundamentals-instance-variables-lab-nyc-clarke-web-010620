@@ -19,4 +19,4 @@ class Dog
 end 
 
 lassie = Dog.new("Lassie")
-lassie.name("kelly")
+puts lassie.name("kelly")
