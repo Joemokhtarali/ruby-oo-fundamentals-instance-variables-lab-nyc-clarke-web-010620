@@ -19,4 +19,4 @@ class Dog
 end 
 
 lassie = Dog.new("Lassie")
-lassie.@this_dogs_name("kelly")
+lassie.name("kelly")
